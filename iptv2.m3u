@@ -1,514 +1,541 @@
 #EXTM3U
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="001",001 | BEIN SPORTS 1ᵁᴴᴰ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363480&extension=ts
 
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="002",002 | BEIN SPORTS1 ᵁᴴᴰ 4K
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411383&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="003",003 | BEIN SPORTS 2ᵁᴴᴰ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363481&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="004",004 | BEIN SPORTS2 ᵁᴴᴰ 4K
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411382&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="005",005 | BEIN SPORTS 3ᵁᴴᴰ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363482&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="006",006 | BEIN SPORTS3 ᵁᴴᴰ 4K
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411381&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="007",007 | BEIN SPORTS 4ᵁᴴᴰ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363483&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="008",008 | BEIN SPORTS4 ᵁᴴᴰ 4K
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411380&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="009",009 | BEIN SPORTS 5ᵁᴴᴰ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363484&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="010",010 | BEIN SPORTS5 ᵁᴴᴰ 4K
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411379&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="011",011 | BEIN SPORTS 6ᵁᴴᴰ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363485&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="012",012 | BEIN SPORTS6 ᵁᴴᴰ 4K
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411378&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="013",013 | BEIN SPORTS 7ᵁᴴᴰ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363486&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="014",014 | BEIN SPORTS7 ᵁᴴᴰ 4K
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411377&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="015",015 | BEIN SPORTS 8ᵁᴴᴰ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363487&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="016",016 | BEIN SPORTS8 ᵁᴴᴰ 4K
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411376&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="017",017 | BEIN SPORTS 9ᵁᴴᴰ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363488&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="018",018 | BEIN SPORTS9 ᵁᴴᴰ 4K
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411375&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="019",019 | BEIN SPORT 01 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806582&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="020",020 | BEIN SPORTS FHD 1
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836268&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="021",021 | BEIN SPORT 02 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806581&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="022",022 | BEIN SPORTS FHD 2
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836267&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="023",023 | BEIN SPORT 03 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806580&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="024",024 | BEIN SPORTS FHD 3
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836266&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="025",025 | BEIN SPORT 04 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806579&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="026",026 | BEIN SPORTS FHD 4
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836265&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="027",027 | BEIN SPORT 05 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806578&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="028",028 | BEIN SPORTS FHD 5
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836264&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="029",029 | BEIN SPORT 06 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806577&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="030",030 | BEIN SPORTS FHD 6
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836263&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="031",031 | BEIN SPORT 07 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806576&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="032",032 | BEIN SPORTS FHD 7
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836262&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="033",033 | BEIN SPORT 08 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806575&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="034",034 | BEIN SPORTS FHD 8
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836261&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="035",035 | BEIN SPORTS FHD 9
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836260&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="036",036 | BEIN SPORTS 1 480
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660413&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="037",037 | BEIN SPORTS 2 480
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660411&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="038",038 | BEIN SPORTS 3 480
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660409&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="039",039 | BEIN SPORTS 4 480
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660407&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="040",040 | BEIN SPORTS 5 480
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660405&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="041",041 | BEIN SPORTS 6 480
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660403&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="042",042 | BEIN SPORTS 7 480
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660401&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="043",043 | BEIN SPORTS 8 480
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660399&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="044",044 | BEIN SPORTS 9 480
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660397&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="045",045 | BEIN SPORTS 1 LQ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330474&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="046",046 | BEIN SPORTS LOW 1
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836254&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="047",047 | BEIN SPORTS 2 LQ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330475&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="048",048 | BEIN SPORTS LOW 2
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836253&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="049",049 | BEIN SPORTS 3 LQ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330476&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="050",050 | BEIN SPORTS LOW 3
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836252&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="051",051 | BEIN SPORTS 4 LQ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330477&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="052",052 | BEIN SPORTS LOW 4
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836251&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="053",053 | BEIN SPORTS 5 LQ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330478&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="054",054 | BEIN SPORTS LOW 5
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836250&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="055",055 | BEIN SPORTS 6 LQ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330479&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="056",056 | BEIN SPORTS LOW 6
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836249&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="057",057 | BEIN SPORTS 7 LQ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330480&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="058",058 | BEIN SPORTS LOW 7
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836246&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="059",059 | BEIN SPORTS 8 LQ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330481&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="060",060 | BEIN SPORTS LOW 8
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836248&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="061",061 | BEIN SPORTS 9 LQ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330482&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="062",062 | BEIN SPORTS LOW 9
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836247&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="063",063 | BEIN SPORTS 1 AFCᵁᴴᴰ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363490&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="064",064 | BEIN SPORTS 2 AFCᵁᴴᴰ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363491&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="065",065 | BEIN SPORTS AFCᵁᴴᴰ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363489&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="066",066 | BEIN AFC FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836245&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="067",067 | BEIN SPORTS  AFC 480
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660385&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="068",068 | BEIN SPORTS NEWS FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836258&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="069",069 | BEIN SPORTS NEWS HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836255&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="070",070 | BEIN NEWS
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806583&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="071",071 | BEIN SPORTS FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836259&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="072",072 | BEIN SPORTS HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836256&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD" tvg-chno="073",073 | BEIN SPORT
+# ==========================================
+# BEIN SPORTS (FHD / HD / 4K / UHD)
+# ==========================================
+#EXTINF:-1 tvg-chno="1" group-title="beIN SPORTS",BEIN SPORT
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806584&extension=ts
 
-#EXTINF:-1 group-title="beIN Sports SD" tvg-chno="001",001 | BEIN SPORTS AFC SD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1454204&extension=ts
+#EXTINF:-1 tvg-chno="2" group-title="beIN SPORTS",BEIN SPORTS HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836256&extension=ts
 
-#EXTINF:-1 group-title="beIN Sports SD" tvg-chno="002",002 | BEIN SPORTS SD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836244&extension=ts
+#EXTINF:-1 tvg-chno="3" group-title="beIN SPORTS",BEIN SPORTS FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836259&extension=ts
 
-#EXTINF:-1 group-title="beIN Sports XTRA" tvg-chno="001",001 | BEIN SPORTS XTRA 1ᵁᴴᴰ
+#EXTINF:-1 tvg-chno="4" group-title="beIN SPORTS",BEIN NEWS
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806583&extension=ts
+
+#EXTINF:-1 tvg-chno="5" group-title="beIN SPORTS",BEIN SPORTS NEWS HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836255&extension=ts
+
+#EXTINF:-1 tvg-chno="6" group-title="beIN SPORTS",BEIN SPORTS NEWS FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836258&extension=ts
+
+#EXTINF:-1 tvg-chno="7" group-title="beIN SPORTS",BEIN SPORT 01 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806582&extension=ts
+
+#EXTINF:-1 tvg-chno="8" group-title="beIN SPORTS",BEIN SPORTS FHD 1
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836268&extension=ts
+
+#EXTINF:-1 tvg-chno="9" group-title="beIN SPORTS",BEIN SPORTS 1ᵁᴴᴰ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363480&extension=ts
+
+#EXTINF:-1 tvg-chno="10" group-title="beIN SPORTS",BEIN SPORTS1 ᵁᴴᴰ 4K
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411383&extension=ts
+
+#EXTINF:-1 tvg-chno="11" group-title="beIN SPORTS",BEIN SPORT 02 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806581&extension=ts
+
+#EXTINF:-1 tvg-chno="12" group-title="beIN SPORTS",BEIN SPORTS FHD 2
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836267&extension=ts
+
+#EXTINF:-1 tvg-chno="13" group-title="beIN SPORTS",BEIN SPORTS 2ᵁᴴᴰ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363481&extension=ts
+
+#EXTINF:-1 tvg-chno="14" group-title="beIN SPORTS",BEIN SPORTS2 ᵁᴴᴰ 4K
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411382&extension=ts
+
+#EXTINF:-1 tvg-chno="15" group-title="beIN SPORTS",BEIN SPORT 03 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806580&extension=ts
+
+#EXTINF:-1 tvg-chno="16" group-title="beIN SPORTS",BEIN SPORTS FHD 3
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836266&extension=ts
+
+#EXTINF:-1 tvg-chno="17" group-title="beIN SPORTS",BEIN SPORTS 3ᵁᴴᴰ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363482&extension=ts
+
+#EXTINF:-1 tvg-chno="18" group-title="beIN SPORTS",BEIN SPORTS3 ᵁᴴᴰ 4K
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411381&extension=ts
+
+#EXTINF:-1 tvg-chno="19" group-title="beIN SPORTS",BEIN SPORT 04 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806579&extension=ts
+
+#EXTINF:-1 tvg-chno="20" group-title="beIN SPORTS",BEIN SPORTS FHD 4
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836265&extension=ts
+
+#EXTINF:-1 tvg-chno="21" group-title="beIN SPORTS",BEIN SPORTS 4ᵁᴴᴰ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363483&extension=ts
+
+#EXTINF:-1 tvg-chno="22" group-title="beIN SPORTS",BEIN SPORTS4 ᵁᴴᴰ 4K
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411380&extension=ts
+
+#EXTINF:-1 tvg-chno="23" group-title="beIN SPORTS",BEIN SPORT 05 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806578&extension=ts
+
+#EXTINF:-1 tvg-chno="24" group-title="beIN SPORTS",BEIN SPORTS FHD 5
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836264&extension=ts
+
+#EXTINF:-1 tvg-chno="25" group-title="beIN SPORTS",BEIN SPORTS 5ᵁᴴᴰ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363484&extension=ts
+
+#EXTINF:-1 tvg-chno="26" group-title="beIN SPORTS",BEIN SPORTS5 ᵁᴴᴰ 4K
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411379&extension=ts
+
+#EXTINF:-1 tvg-chno="27" group-title="beIN SPORTS",BEIN SPORT 06 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806577&extension=ts
+
+#EXTINF:-1 tvg-chno="28" group-title="beIN SPORTS",BEIN SPORTS FHD 6
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836263&extension=ts
+
+#EXTINF:-1 tvg-chno="29" group-title="beIN SPORTS",BEIN SPORTS 6ᵁᴴᴰ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363485&extension=ts
+
+#EXTINF:-1 tvg-chno="30" group-title="beIN SPORTS",BEIN SPORTS6 ᵁᴴᴰ 4K
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411378&extension=ts
+
+#EXTINF:-1 tvg-chno="31" group-title="beIN SPORTS",BEIN SPORT 07 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806576&extension=ts
+
+#EXTINF:-1 tvg-chno="32" group-title="beIN SPORTS",BEIN SPORTS FHD 7
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836262&extension=ts
+
+#EXTINF:-1 tvg-chno="33" group-title="beIN SPORTS",BEIN SPORTS 7ᵁᴴᴰ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363486&extension=ts
+
+#EXTINF:-1 tvg-chno="34" group-title="beIN SPORTS",BEIN SPORTS7 ᵁᴴᴰ 4K
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411377&extension=ts
+
+#EXTINF:-1 tvg-chno="35" group-title="beIN SPORTS",BEIN SPORT 08 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806575&extension=ts
+
+#EXTINF:-1 tvg-chno="36" group-title="beIN SPORTS",BEIN SPORTS FHD 8
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836261&extension=ts
+
+#EXTINF:-1 tvg-chno="37" group-title="beIN SPORTS",BEIN SPORTS 8ᵁᴴᴰ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363487&extension=ts
+
+#EXTINF:-1 tvg-chno="38" group-title="beIN SPORTS",BEIN SPORTS8 ᵁᴴᴰ 4K
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411376&extension=ts
+
+#EXTINF:-1 tvg-chno="39" group-title="beIN SPORTS",BEIN SPORTS FHD 9
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836260&extension=ts
+
+#EXTINF:-1 tvg-chno="40" group-title="beIN SPORTS",BEIN SPORTS 9ᵁᴴᴰ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363488&extension=ts
+
+#EXTINF:-1 tvg-chno="41" group-title="beIN SPORTS",BEIN SPORTS9 ᵁᴴᴰ 4K
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411375&extension=ts
+
+#EXTINF:-1 tvg-chno="42" group-title="beIN SPORTS",BEIN AFC FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836245&extension=ts
+
+#EXTINF:-1 tvg-chno="43" group-title="beIN SPORTS",BEIN SPORTS AFCᵁᴴᴰ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363489&extension=ts
+
+#EXTINF:-1 tvg-chno="44" group-title="beIN SPORTS",BEIN SPORTS 1 AFCᵁᴴᴰ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363490&extension=ts
+
+#EXTINF:-1 tvg-chno="45" group-title="beIN SPORTS",BEIN SPORTS 2 AFCᵁᴴᴰ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363491&extension=ts
+
+#EXTINF:-1 tvg-chno="46" group-title="beIN SPORTS",BEIN SPORTS XTRA 1ᵁᴴᴰ
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363492&extension=ts
 
-#EXTINF:-1 group-title="beIN Sports XTRA" tvg-chno="002",002 | BEIN SPORTS XTRA 2ᵁᴴᴰ
+#EXTINF:-1 tvg-chno="47" group-title="beIN SPORTS",BEIN SPORTS XTRA 2ᵁᴴᴰ
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363493&extension=ts
 
-#EXTINF:-1 group-title="beIN Sports XTRA" tvg-chno="003",003 | BEIN SPORTS 1 XTRA LQ
+# ==========================================
+# BEIN SPORTS (SD / LOW / LQ / 480p)
+# ==========================================
+#EXTINF:-1 tvg-chno="48" group-title="beIN SPORTS Low Quality",BEIN SPORTS SD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836244&extension=ts
+
+#EXTINF:-1 tvg-chno="49" group-title="beIN SPORTS Low Quality",BEIN SPORTS LOW 1
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836254&extension=ts
+
+#EXTINF:-1 tvg-chno="50" group-title="beIN SPORTS Low Quality",BEIN SPORTS 1 LQ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330474&extension=ts
+
+#EXTINF:-1 tvg-chno="51" group-title="beIN SPORTS Low Quality",BEIN SPORTS 1 480
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660413&extension=ts
+
+#EXTINF:-1 tvg-chno="52" group-title="beIN SPORTS Low Quality",BEIN SPORTS LOW 2
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836253&extension=ts
+
+#EXTINF:-1 tvg-chno="53" group-title="beIN SPORTS Low Quality",BEIN SPORTS 2 LQ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330475&extension=ts
+
+#EXTINF:-1 tvg-chno="54" group-title="beIN SPORTS Low Quality",BEIN SPORTS 2 480
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660411&extension=ts
+
+#EXTINF:-1 tvg-chno="55" group-title="beIN SPORTS Low Quality",BEIN SPORTS LOW 3
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836252&extension=ts
+
+#EXTINF:-1 tvg-chno="56" group-title="beIN SPORTS Low Quality",BEIN SPORTS 3 LQ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330476&extension=ts
+
+#EXTINF:-1 tvg-chno="57" group-title="beIN SPORTS Low Quality",BEIN SPORTS 3 480
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660409&extension=ts
+
+#EXTINF:-1 tvg-chno="58" group-title="beIN SPORTS Low Quality",BEIN SPORTS LOW 4
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836251&extension=ts
+
+#EXTINF:-1 tvg-chno="59" group-title="beIN SPORTS Low Quality",BEIN SPORTS 4 LQ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330477&extension=ts
+
+#EXTINF:-1 tvg-chno="60" group-title="beIN SPORTS Low Quality",BEIN SPORTS 4 480
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660407&extension=ts
+
+#EXTINF:-1 tvg-chno="61" group-title="beIN SPORTS Low Quality",BEIN SPORTS LOW 5
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836250&extension=ts
+
+#EXTINF:-1 tvg-chno="62" group-title="beIN SPORTS Low Quality",BEIN SPORTS 5 LQ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330478&extension=ts
+
+#EXTINF:-1 tvg-chno="63" group-title="beIN SPORTS Low Quality",BEIN SPORTS 5 480
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660405&extension=ts
+
+#EXTINF:-1 tvg-chno="64" group-title="beIN SPORTS Low Quality",BEIN SPORTS LOW 6
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836249&extension=ts
+
+#EXTINF:-1 tvg-chno="65" group-title="beIN SPORTS Low Quality",BEIN SPORTS 6 LQ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330479&extension=ts
+
+#EXTINF:-1 tvg-chno="66" group-title="beIN SPORTS Low Quality",BEIN SPORTS 6 480
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660403&extension=ts
+
+#EXTINF:-1 tvg-chno="67" group-title="beIN SPORTS Low Quality",BEIN SPORTS LOW 7
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836246&extension=ts
+
+#EXTINF:-1 tvg-chno="68" group-title="beIN SPORTS Low Quality",BEIN SPORTS 7 LQ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330480&extension=ts
+
+#EXTINF:-1 tvg-chno="69" group-title="beIN SPORTS Low Quality",BEIN SPORTS 7 480
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660401&extension=ts
+
+#EXTINF:-1 tvg-chno="70" group-title="beIN SPORTS Low Quality",BEIN SPORTS LOW 8
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836248&extension=ts
+
+#EXTINF:-1 tvg-chno="71" group-title="beIN SPORTS Low Quality",BEIN SPORTS 8 LQ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330481&extension=ts
+
+#EXTINF:-1 tvg-chno="72" group-title="beIN SPORTS Low Quality",BEIN SPORTS 8 480
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660399&extension=ts
+
+#EXTINF:-1 tvg-chno="73" group-title="beIN SPORTS Low Quality",BEIN SPORTS LOW 9
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836247&extension=ts
+
+#EXTINF:-1 tvg-chno="74" group-title="beIN SPORTS Low Quality",BEIN SPORTS 9 LQ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330482&extension=ts
+
+#EXTINF:-1 tvg-chno="75" group-title="beIN SPORTS Low Quality",BEIN SPORTS 9 480
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660397&extension=ts
+
+#EXTINF:-1 tvg-chno="76" group-title="beIN SPORTS Low Quality",BEIN SPORTS 1 XTRA LQ
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330483&extension=ts
 
-#EXTINF:-1 group-title="beIN Sports XTRA" tvg-chno="004",004 | BEIN SPORTS 2 XTRA LQ
+#EXTINF:-1 tvg-chno="77" group-title="beIN SPORTS Low Quality",BEIN SPORTS 2 XTRA LQ
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330484&extension=ts
 
-#EXTINF:-1 group-title="قنوات أخرى" tvg-chno="001",001 | NBA HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836257&extension=ts
+#EXTINF:-1 tvg-chno="78" group-title="beIN SPORTS Low Quality",BEIN SPORTS AFC SD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1454204&extension=ts
 
-#EXTINF:-1 group-title="قنوات أخرى" tvg-chno="002",002 | POST TV
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849867&extension=ts
+#EXTINF:-1 tvg-chno="79" group-title="beIN SPORTS Low Quality",BEIN SPORTS  AFC 480
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660385&extension=ts
 
-#EXTINF:-1 group-title="beIN Sports International" tvg-chno="001",001 | BEIN SPORTS ENGLISH 1 480
+#EXTINF:-1 tvg-chno="80" group-title="beIN SPORTS Low Quality",BEIN SPORTS ENGLISH 1 480
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660395&extension=ts
 
-#EXTINF:-1 group-title="beIN Sports International" tvg-chno="002",002 | BEIN SPORTS ENGLISH 2 480
+#EXTINF:-1 tvg-chno="81" group-title="beIN SPORTS Low Quality",BEIN SPORTS ENGLISH 2 480
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660393&extension=ts
 
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="001",001 | AL KASS 3 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=787905&extension=ts
-
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="002",002 | AL KASS 6 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=787906&extension=ts
-
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="003",003 | AL KASS 1 HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591593&extension=ts
-
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="004",004 | AL KASS 2 HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591591&extension=ts
-
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="005",005 | AL KASS 3 HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=787903&extension=ts
-
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="006",006 | AL KASS 4 HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591589&extension=ts
-
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="007",007 | AL KASS 5 HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591587&extension=ts
-
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="008",008 | AL KASS 7 HD (LIVE EVENT ONLY)
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1797088&extension=ts
-
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="009",009 | AL KASS 8 HD (LIVE EVENT ONLY)
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1797087&extension=ts
-
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="010",010 | AL KASS 9 HD (LIVE EVENT ONLY)
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1186269&extension=ts
-
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="011",011 | AL KASS 1 HEVC
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591592&extension=ts
-
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="012",012 | AL KASS 2 HEVC
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591590&extension=ts
-
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="013",013 | AL KASS 4 HEVC
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591588&extension=ts
-
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="014",014 | AL KASS 1
+# ==========================================
+# AL KASS SPORTS
+# ==========================================
+#EXTINF:-1 tvg-chno="82" group-title="AL KASS SPORTS",AL KASS 1
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964810&extension=ts
 
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="015",015 | AL KASS 2
+#EXTINF:-1 tvg-chno="83" group-title="AL KASS SPORTS",AL KASS 1 HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591593&extension=ts
+
+#EXTINF:-1 tvg-chno="84" group-title="AL KASS SPORTS",AL KASS 1 HEVC
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591592&extension=ts
+
+#EXTINF:-1 tvg-chno="85" group-title="AL KASS SPORTS",AL KASS 2
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964809&extension=ts
 
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="016",016 | AL KASS 3
+#EXTINF:-1 tvg-chno="86" group-title="AL KASS SPORTS",AL KASS 2 HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591591&extension=ts
+
+#EXTINF:-1 tvg-chno="87" group-title="AL KASS SPORTS",AL KASS 2 HEVC
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591590&extension=ts
+
+#EXTINF:-1 tvg-chno="88" group-title="AL KASS SPORTS",AL KASS 3
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964808&extension=ts
 
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="017",017 | AL KASS 4
+#EXTINF:-1 tvg-chno="89" group-title="AL KASS SPORTS",AL KASS 3 HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=787903&extension=ts
+
+#EXTINF:-1 tvg-chno="90" group-title="AL KASS SPORTS",AL KASS 3 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=787905&extension=ts
+
+#EXTINF:-1 tvg-chno="91" group-title="AL KASS SPORTS",AL KASS 4
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964807&extension=ts
 
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="018",018 | AL KASS 5
+#EXTINF:-1 tvg-chno="92" group-title="AL KASS SPORTS",AL KASS 4 HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591589&extension=ts
+
+#EXTINF:-1 tvg-chno="93" group-title="AL KASS SPORTS",AL KASS 4 HEVC
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591588&extension=ts
+
+#EXTINF:-1 tvg-chno="94" group-title="AL KASS SPORTS",AL KASS 5
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964806&extension=ts
 
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="019",019 | AL KASS 6
+#EXTINF:-1 tvg-chno="95" group-title="AL KASS SPORTS",AL KASS 5 HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591587&extension=ts
+
+#EXTINF:-1 tvg-chno="96" group-title="AL KASS SPORTS",AL KASS 6
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964805&extension=ts
 
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="020",020 | AL KASS 7
+#EXTINF:-1 tvg-chno="97" group-title="AL KASS SPORTS",AL KASS 6 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=787906&extension=ts
+
+#EXTINF:-1 tvg-chno="98" group-title="AL KASS SPORTS",AL KASS 7
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964804&extension=ts
 
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="021",021 | AL KASS 8
+#EXTINF:-1 tvg-chno="99" group-title="AL KASS SPORTS",AL KASS 7 HD (LIVE EVENT ONLY)
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1797088&extension=ts
+
+#EXTINF:-1 tvg-chno="100" group-title="AL KASS SPORTS",AL KASS 8
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964803&extension=ts
 
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="022",022 | AL KASS SHOOF 1
+#EXTINF:-1 tvg-chno="101" group-title="AL KASS SPORTS",AL KASS 8 HD (LIVE EVENT ONLY)
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1797087&extension=ts
+
+#EXTINF:-1 tvg-chno="102" group-title="AL KASS SPORTS",AL KASS 9 HD (LIVE EVENT ONLY)
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1186269&extension=ts
+
+#EXTINF:-1 tvg-chno="103" group-title="AL KASS SPORTS",AL KASS SHOOF 1
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964802&extension=ts
 
-#EXTINF:-1 group-title="Al Kass Sports" tvg-chno="023",023 | AL KASS SHOOF 2
+#EXTINF:-1 tvg-chno="104" group-title="AL KASS SPORTS",AL KASS SHOOF 2
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964801&extension=ts
 
-#EXTINF:-1 group-title="SOLO SPORT" tvg-chno="001",001 | SOLO SPORT 1 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101761&extension=ts
-
-#EXTINF:-1 group-title="SOLO SPORT" tvg-chno="002",002 | SOLO SPORT 2 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101599&extension=ts
-
-#EXTINF:-1 group-title="SOLO SPORT" tvg-chno="003",003 | SOLO SPORT 3 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101595&extension=ts
-
-#EXTINF:-1 group-title="SOLO SPORT" tvg-chno="004",004 | SOLO SPORT 4 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2103464&extension=ts
-
-#EXTINF:-1 group-title="SOLO SPORT" tvg-chno="005",005 | SOLO SPORT 1 HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101763&extension=ts
-
-#EXTINF:-1 group-title="SOLO SPORT" tvg-chno="006",006 | SOLO SPORT 2 HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101598&extension=ts
-
-#EXTINF:-1 group-title="SOLO SPORT" tvg-chno="007",007 | SOLO SPORT 3 HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101594&extension=ts
-
-#EXTINF:-1 group-title="SOLO SPORT" tvg-chno="008",008 | SOLO SPORT 4 HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2103462&extension=ts
-
-#EXTINF:-1 group-title="SOLO SPORT" tvg-chno="009",009 | SOLO SPORT 1 SD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101764&extension=ts
-
-#EXTINF:-1 group-title="SOLO SPORT" tvg-chno="010",010 | SOLO SPORT 2 SD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101597&extension=ts
-
-#EXTINF:-1 group-title="SOLO SPORT" tvg-chno="011",011 | SOLO SPORT 3 SD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101593&extension=ts
-
-#EXTINF:-1 group-title="SOLO SPORT" tvg-chno="012",012 | SOLO SPORT F1 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2102733&extension=ts
-
-#EXTINF:-1 group-title="SOLO SPORT" tvg-chno="013",013 | SOLO SPORT F1 HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2102732&extension=ts
-
-#EXTINF:-1 group-title="SOLO SPORT" tvg-chno="014",014 | SOLO SPORT F1 SD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2102731&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى" tvg-chno="001",001 | POST SPORT 1
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849866&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى" tvg-chno="002",002 | POST SPORT 2
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849865&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى" tvg-chno="003",003 | POST SPORT 3
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849864&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى" tvg-chno="004",004 | POST SPORT 4
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849863&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى" tvg-chno="005",005 | POST SPORT 5
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849862&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى" tvg-chno="006",006 | POST SPORT 6
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849861&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى" tvg-chno="007",007 | THAMANYA 1 SPORT HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936353&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى" tvg-chno="008",008 | THAMANYA 2 SPORT HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936352&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى" tvg-chno="009",009 | THAMANYA 3 SPORT HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936351&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى" tvg-chno="010",010 | THAMANYA 1 SPORT SD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936350&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى" tvg-chno="011",011 | THAMANYA 2 SPORT SD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936349&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى" tvg-chno="012",012 | THAMANYA 3 SPORT SD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936348&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى" tvg-chno="013",013 | Astro Football
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/304770.ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى" tvg-chno="014",014 | OMAN SPORT TV
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591563&extension=ts
-
-#EXTM3U
-
-#EXTINF:-1 group-title="Thmanyah Sports" tvg-chno="001",001 | THMANYAH 1 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1898978&extension=ts
-
-#EXTINF:-1 group-title="Thmanyah Sports" tvg-chno="002",002 | THMANYAH 2 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1898977&extension=ts
-
-#EXTINF:-1 group-title="Thmanyah Sports" tvg-chno="003",003 | THMANYAH 3 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1899053&extension=ts
-
-#EXTINF:-1 group-title="Thmanyah Sports" tvg-chno="004",004 | THMANYAH 1 HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1898976&extension=ts
-
-#EXTINF:-1 group-title="Thmanyah Sports" tvg-chno="005",005 | THMANYAH 2 HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1898975&extension=ts
-
-#EXTINF:-1 group-title="Thmanyah Sports" tvg-chno="006",006 | THMANYAH 3 HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1899054&extension=ts
-
-#EXTINF:-1 group-title="Thmanyah Sports" tvg-chno="007",007 | THMANYAH MINASA 1
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1907593&extension=ts
-
-#EXTINF:-1 group-title="Thmanyah Sports" tvg-chno="008",008 | THMANYAH MINASA 2
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1907594&extension=ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="001",001 | AD Sports 1 4K
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/311871.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="002",002 | AD Sports 1 4K ◉
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323849.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="003",003 | AD Sports 2 4K
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/311872.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="004",004 | AD Sports 2 4K ◉
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323848.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="005",005 | AD Sports 1 HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/47487.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="006",006 | AD Sports 2 HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/463.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="007",007 | AD Sports 1
+# ==========================================
+# AD SPORTS
+# ==========================================
+#EXTINF:-1 tvg-chno="105" group-title="AD SPORTS",AD Sports 1
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/315214.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="008",008 | AD Sports 2
+#EXTINF:-1 tvg-chno="106" group-title="AD SPORTS",AD Sports 1 HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/47487.ts
+
+#EXTINF:-1 tvg-chno="107" group-title="AD SPORTS",AD Sports 1 4K
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/311871.ts
+
+#EXTINF:-1 tvg-chno="108" group-title="AD SPORTS",AD Sports 1 4K ◉
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323849.ts
+
+#EXTINF:-1 tvg-chno="109" group-title="AD SPORTS",AD Sports 2
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/315215.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="009",009 | AD Sports Yas 4K
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323754.ts
+#EXTINF:-1 tvg-chno="110" group-title="AD SPORTS",AD Sports 2 HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/463.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="010",010 | AD Sports Yas 4K ◉
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323857.ts
+#EXTINF:-1 tvg-chno="111" group-title="AD SPORTS",AD Sports 2 4K
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/311872.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="011",011 | AD Sports Yas Extra HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229227.ts
+#EXTINF:-1 tvg-chno="112" group-title="AD SPORTS",AD Sports 2 4K ◉
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323848.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="012",012 | AD Sports Yas HD
+#EXTINF:-1 tvg-chno="113" group-title="AD SPORTS",AD Sports Extra HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229223.ts
+
+#EXTINF:-1 tvg-chno="114" group-title="AD SPORTS",AD Sports Yas HD
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/17583.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="013",013 | STARZPLAY Sports 1 4K
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/248592.ts
+#EXTINF:-1 tvg-chno="115" group-title="AD SPORTS",AD Sports Yas Extra HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229227.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="014",014 | STARZPLAY Sports 2 4K
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/248595.ts
+#EXTINF:-1 tvg-chno="116" group-title="AD SPORTS",AD Sports Yas 4K
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323754.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="015",015 | STARZPLAY Sports 3 4K
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/301200.ts
+#EXTINF:-1 tvg-chno="117" group-title="AD SPORTS",AD Sports Yas 4K ◉
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323857.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="016",016 | STARZPLAY Sports 1 HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229224.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="017",017 | STARZPLAY Sports 2 HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229225.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="018",018 | STARZPLAY Sports 3 HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/301199.ts
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="019",019 | STARZPLAY Sports 1
+# ==========================================
+# STARZPLAY SPORTS
+# ==========================================
+#EXTINF:-1 tvg-chno="118" group-title="STARZPLAY",STARZPLAY Sports 1
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/248593.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="020",020 | STARZPLAY Sports 2
+#EXTINF:-1 tvg-chno="119" group-title="STARZPLAY",STARZPLAY Sports 1 HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229224.ts
+
+#EXTINF:-1 tvg-chno="120" group-title="STARZPLAY",STARZPLAY Sports 1 4K
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/248592.ts
+
+#EXTINF:-1 tvg-chno="121" group-title="STARZPLAY",STARZPLAY Sports 2
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/248594.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="021",021 | STARZPLAY Sports 3
+#EXTINF:-1 tvg-chno="122" group-title="STARZPLAY",STARZPLAY Sports 2 HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229225.ts
+
+#EXTINF:-1 tvg-chno="123" group-title="STARZPLAY",STARZPLAY Sports 2 4K
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/248595.ts
+
+#EXTINF:-1 tvg-chno="124" group-title="STARZPLAY",STARZPLAY Sports 3
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/311367.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="022",022 | STARZPLAY Cricbuzz 1 4K
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323761.ts
+#EXTINF:-1 tvg-chno="125" group-title="STARZPLAY",STARZPLAY Sports 3 HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/301199.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="023",023 | STARZPLAY Cricbuzz 1 HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/311366.ts
+#EXTINF:-1 tvg-chno="126" group-title="STARZPLAY",STARZPLAY Sports 3 4K
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/301200.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="024",024 | STARZPLAY Cricbuzz 2 HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/232441.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="025",025 | STARZPLAY Cricbuzz 1
+#EXTINF:-1 tvg-chno="127" group-title="STARZPLAY",STARZPLAY Cricbuzz 1
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323760.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="026",026 | STARZPLAY GOLF 4K
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323764.ts
+#EXTINF:-1 tvg-chno="128" group-title="STARZPLAY",STARZPLAY Cricbuzz 1 HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/311366.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="027",027 | STARZPLAY GOLF HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323763.ts
+#EXTINF:-1 tvg-chno="129" group-title="STARZPLAY",STARZPLAY Cricbuzz 1 4K
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323761.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="028",028 | STARZPLAY GOLF
+#EXTINF:-1 tvg-chno="130" group-title="STARZPLAY",STARZPLAY Cricbuzz 2 HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/232441.ts
+
+#EXTINF:-1 tvg-chno="131" group-title="STARZPLAY",STARZPLAY GOLF
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323762.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay" tvg-chno="029",029 | AD Sports Extra HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229223.ts
+#EXTINF:-1 tvg-chno="132" group-title="STARZPLAY",STARZPLAY GOLF HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323763.ts
+
+#EXTINF:-1 tvg-chno="133" group-title="STARZPLAY",STARZPLAY GOLF 4K
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323764.ts
+
+# ==========================================
+# SOLO SPORT
+# ==========================================
+#EXTINF:-1 tvg-chno="134" group-title="SOLO SPORT",SOLO SPORT 1 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101761&extension=ts
+
+#EXTINF:-1 tvg-chno="135" group-title="SOLO SPORT",SOLO SPORT 1 HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101763&extension=ts
+
+#EXTINF:-1 tvg-chno="136" group-title="SOLO SPORT",SOLO SPORT 1 SD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101764&extension=ts
+
+#EXTINF:-1 tvg-chno="137" group-title="SOLO SPORT",SOLO SPORT 2 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101599&extension=ts
+
+#EXTINF:-1 tvg-chno="138" group-title="SOLO SPORT",SOLO SPORT 2 HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101598&extension=ts
+
+#EXTINF:-1 tvg-chno="139" group-title="SOLO SPORT",SOLO SPORT 2 SD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101597&extension=ts
+
+#EXTINF:-1 tvg-chno="140" group-title="SOLO SPORT",SOLO SPORT 3 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101595&extension=ts
+
+#EXTINF:-1 tvg-chno="141" group-title="SOLO SPORT",SOLO SPORT 3 HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101594&extension=ts
+
+#EXTINF:-1 tvg-chno="142" group-title="SOLO SPORT",SOLO SPORT 3 SD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101593&extension=ts
+
+#EXTINF:-1 tvg-chno="143" group-title="SOLO SPORT",SOLO SPORT 4 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2103464&extension=ts
+
+#EXTINF:-1 tvg-chno="144" group-title="SOLO SPORT",SOLO SPORT 4 HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2103462&extension=ts
+
+#EXTINF:-1 tvg-chno="145" group-title="SOLO SPORT",SOLO SPORT F1 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2102733&extension=ts
+
+#EXTINF:-1 tvg-chno="146" group-title="SOLO SPORT",SOLO SPORT F1 HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2102732&extension=ts
+
+#EXTINF:-1 tvg-chno="147" group-title="SOLO SPORT",SOLO SPORT F1 SD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2102731&extension=ts
+
+# ==========================================
+# THMANYAH SPORTS
+# ==========================================
+#EXTINF:-1 tvg-chno="148" group-title="THMANYAH",THMANYAH 1 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1898978&extension=ts
+
+#EXTINF:-1 tvg-chno="149" group-title="THMANYAH",THMANYAH 1 HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1898976&extension=ts
+
+#EXTINF:-1 tvg-chno="150" group-title="THMANYAH",THAMANYA 1 SPORT HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936353&extension=ts
+
+#EXTINF:-1 tvg-chno="151" group-title="THMANYAH",THAMANYA 1 SPORT SD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936350&extension=ts
+
+#EXTINF:-1 tvg-chno="152" group-title="THMANYAH",THMANYAH 2 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1898977&extension=ts
+
+#EXTINF:-1 tvg-chno="153" group-title="THMANYAH",THMANYAH 2 HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1898975&extension=ts
+
+#EXTINF:-1 tvg-chno="154" group-title="THMANYAH",THAMANYA 2 SPORT HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936352&extension=ts
+
+#EXTINF:-1 tvg-chno="155" group-title="THMANYAH",THAMANYA 2 SPORT SD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936349&extension=ts
+
+#EXTINF:-1 tvg-chno="156" group-title="THMANYAH",THMANYAH 3 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1899053&extension=ts
+
+#EXTINF:-1 tvg-chno="157" group-title="THMANYAH",THMANYAH 3 HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1899054&extension=ts
+
+#EXTINF:-1 tvg-chno="158" group-title="THMANYAH",THAMANYA 3 SPORT HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936351&extension=ts
+
+#EXTINF:-1 tvg-chno="159" group-title="THMANYAH",THAMANYA 3 SPORT SD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936348&extension=ts
+
+#EXTINF:-1 tvg-chno="160" group-title="THMANYAH",THMANYAH MINASA 1
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1907593&extension=ts
+
+#EXTINF:-1 tvg-chno="161" group-title="THMANYAH",THMANYAH MINASA 2
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1907594&extension=ts
+
+# ==========================================
+# POST SPORT
+# ==========================================
+#EXTINF:-1 tvg-chno="162" group-title="POST SPORT",POST TV
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849867&extension=ts
+
+#EXTINF:-1 tvg-chno="163" group-title="POST SPORT",POST SPORT 1
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849866&extension=ts
+
+#EXTINF:-1 tvg-chno="164" group-title="POST SPORT",POST SPORT 2
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849865&extension=ts
+
+#EXTINF:-1 tvg-chno="165" group-title="POST SPORT",POST SPORT 3
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849864&extension=ts
+
+#EXTINF:-1 tvg-chno="166" group-title="POST SPORT",POST SPORT 4
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849863&extension=ts
+
+#EXTINF:-1 tvg-chno="167" group-title="POST SPORT",POST SPORT 5
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849862&extension=ts
+
+#EXTINF:-1 tvg-chno="168" group-title="POST SPORT",POST SPORT 6
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849861&extension=ts
+
+# ==========================================
+# OTHER SPORTS
+# ==========================================
+#EXTINF:-1 tvg-chno="169" group-title="OTHER SPORTS",NBA HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836257&extension=ts
+
+#EXTINF:-1 tvg-chno="170" group-title="OTHER SPORTS",OMAN SPORT TV
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591563&extension=ts
+
+#EXTINF:-1 tvg-chno="171" group-title="OTHER SPORTS",Astro Football
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/304770.ts
