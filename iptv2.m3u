@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS 1 AFCᵁᴴᴰ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363490&extension=ts
-
 #EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS 1ᵁᴴᴰ
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363480&extension=ts
 
 #EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS1 ᵁᴴᴰ 4K
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411383&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS 2 AFCᵁᴴᴰ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363491&extension=ts
 
 #EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS 2ᵁᴴᴰ
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363481&extension=ts
@@ -58,9 +52,6 @@ http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363488&exte
 
 #EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS9 ᵁᴴᴰ 4K
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1411375&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS AFCᵁᴴᴰ
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363489&extension=ts
 
 #EXTINF:-1 group-title="beIN Sports HD",BEIN SPORT 01 FHD
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806582&extension=ts
@@ -113,21 +104,6 @@ http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836261&exte
 #EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS FHD 9
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836260&extension=ts
 
-#EXTINF:-1 group-title="beIN Sports HD",BEIN AFC FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836245&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836259&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS NEWS FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836258&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836256&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS NEWS HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836255&extension=ts
-
 #EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS 1 480
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660413&extension=ts
 
@@ -154,9 +130,6 @@ http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660399&exte
 
 #EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS 9 480
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660397&extension=ts
-
-#EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS  AFC 480
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660385&extension=ts
 
 #EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS 1 LQ
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330474&extension=ts
@@ -212,8 +185,35 @@ http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1330482&exte
 #EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS LOW 9
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836247&extension=ts
 
+#EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS 1 AFCᵁᴴᴰ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363490&extension=ts
+
+#EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS 2 AFCᵁᴴᴰ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363491&extension=ts
+
+#EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS AFCᵁᴴᴰ
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1363489&extension=ts
+
+#EXTINF:-1 group-title="beIN Sports HD",BEIN AFC FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836245&extension=ts
+
+#EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS  AFC 480
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1660385&extension=ts
+
+#EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS NEWS FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836258&extension=ts
+
+#EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS NEWS HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836255&extension=ts
+
 #EXTINF:-1 group-title="beIN Sports HD",BEIN NEWS
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806583&extension=ts
+
+#EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836259&extension=ts
+
+#EXTINF:-1 group-title="beIN Sports HD",BEIN SPORTS HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1836256&extension=ts
 
 #EXTINF:-1 group-title="beIN Sports HD",BEIN SPORT
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1806584&extension=ts
@@ -254,15 +254,6 @@ http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=787905&exten
 #EXTINF:-1 group-title="Al Kass Sports",AL KASS 6 FHD
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=787906&extension=ts
 
-#EXTINF:-1 group-title="Al Kass Sports",AL KASS 1 HEVC
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591592&extension=ts
-
-#EXTINF:-1 group-title="Al Kass Sports",AL KASS 2 HEVC
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591590&extension=ts
-
-#EXTINF:-1 group-title="Al Kass Sports",AL KASS 4 HEVC
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591588&extension=ts
-
 #EXTINF:-1 group-title="Al Kass Sports",AL KASS 1 HD
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591593&extension=ts
 
@@ -287,17 +278,20 @@ http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1797087&exte
 #EXTINF:-1 group-title="Al Kass Sports",AL KASS 9 HD (LIVE EVENT ONLY)
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1186269&extension=ts
 
+#EXTINF:-1 group-title="Al Kass Sports",AL KASS 1 HEVC
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591592&extension=ts
+
+#EXTINF:-1 group-title="Al Kass Sports",AL KASS 2 HEVC
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591590&extension=ts
+
+#EXTINF:-1 group-title="Al Kass Sports",AL KASS 4 HEVC
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=591588&extension=ts
+
 #EXTINF:-1 group-title="Al Kass Sports",AL KASS 1
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964810&extension=ts
 
-#EXTINF:-1 group-title="Al Kass Sports",AL KASS SHOOF 1
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964802&extension=ts
-
 #EXTINF:-1 group-title="Al Kass Sports",AL KASS 2
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964809&extension=ts
-
-#EXTINF:-1 group-title="Al Kass Sports",AL KASS SHOOF 2
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964801&extension=ts
 
 #EXTINF:-1 group-title="Al Kass Sports",AL KASS 3
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964808&extension=ts
@@ -317,6 +311,12 @@ http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964804&exte
 #EXTINF:-1 group-title="Al Kass Sports",AL KASS 8
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964803&extension=ts
 
+#EXTINF:-1 group-title="Al Kass Sports",AL KASS SHOOF 1
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964802&extension=ts
+
+#EXTINF:-1 group-title="Al Kass Sports",AL KASS SHOOF 2
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1964801&extension=ts
+
 #EXTINF:-1 group-title="SOLO SPORT",SOLO SPORT 1 FHD
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101761&extension=ts
 
@@ -328,9 +328,6 @@ http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101595&exte
 
 #EXTINF:-1 group-title="SOLO SPORT",SOLO SPORT 4 FHD
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2103464&extension=ts
-
-#EXTINF:-1 group-title="SOLO SPORT",SOLO SPORT F1 FHD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2102733&extension=ts
 
 #EXTINF:-1 group-title="SOLO SPORT",SOLO SPORT 1 HD
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101763&extension=ts
@@ -344,9 +341,6 @@ http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101594&exte
 #EXTINF:-1 group-title="SOLO SPORT",SOLO SPORT 4 HD
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2103462&extension=ts
 
-#EXTINF:-1 group-title="SOLO SPORT",SOLO SPORT F1 HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2102732&extension=ts
-
 #EXTINF:-1 group-title="SOLO SPORT",SOLO SPORT 1 SD
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101764&extension=ts
 
@@ -356,26 +350,14 @@ http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101597&exte
 #EXTINF:-1 group-title="SOLO SPORT",SOLO SPORT 3 SD
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2101593&extension=ts
 
+#EXTINF:-1 group-title="SOLO SPORT",SOLO SPORT F1 FHD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2102733&extension=ts
+
+#EXTINF:-1 group-title="SOLO SPORT",SOLO SPORT F1 HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2102732&extension=ts
+
 #EXTINF:-1 group-title="SOLO SPORT",SOLO SPORT F1 SD
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=2102731&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى",THAMANYA 1 SPORT HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936353&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى",THAMANYA 2 SPORT HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936352&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى",THAMANYA 3 SPORT HD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936351&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى",THAMANYA 1 SPORT SD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936350&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى",THAMANYA 2 SPORT SD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936349&extension=ts
-
-#EXTINF:-1 group-title="قنوات رياضية أخرى",THAMANYA 3 SPORT SD
-http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936348&extension=ts
 
 #EXTINF:-1 group-title="قنوات رياضية أخرى",POST SPORT 1
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849866&extension=ts
@@ -394,6 +376,24 @@ http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849862&exte
 
 #EXTINF:-1 group-title="قنوات رياضية أخرى",POST SPORT 6
 http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1849861&extension=ts
+
+#EXTINF:-1 group-title="قنوات رياضية أخرى",THAMANYA 1 SPORT HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936353&extension=ts
+
+#EXTINF:-1 group-title="قنوات رياضية أخرى",THAMANYA 2 SPORT HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936352&extension=ts
+
+#EXTINF:-1 group-title="قنوات رياضية أخرى",THAMANYA 3 SPORT HD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936351&extension=ts
+
+#EXTINF:-1 group-title="قنوات رياضية أخرى",THAMANYA 1 SPORT SD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936350&extension=ts
+
+#EXTINF:-1 group-title="قنوات رياضية أخرى",THAMANYA 2 SPORT SD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936349&extension=ts
+
+#EXTINF:-1 group-title="قنوات رياضية أخرى",THAMANYA 3 SPORT SD
+http://vpn.tvrhino.world/play/live.php?mac=00:1B:79:51:0E:86&stream=1936348&extension=ts
 
 #EXTINF:-1 group-title="قنوات رياضية أخرى",Astro Football
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/304770.ts
@@ -433,23 +433,23 @@ http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/311871.ts
 #EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports 1 4K ◉
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323849.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Cricbuzz 1 4K
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323761.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Sports 1 4K
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/248592.ts
-
 #EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports 2 4K
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/311872.ts
 
 #EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports 2 4K ◉
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323848.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Sports 2 4K
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/248595.ts
+#EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports 1 HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/47487.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Sports 3 4K
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/301200.ts
+#EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports 2 HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/463.ts
+
+#EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports 1
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/315214.ts
+
+#EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports 2
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/315215.ts
 
 #EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports Yas 4K
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323754.ts
@@ -457,52 +457,31 @@ http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323754.ts
 #EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports Yas 4K ◉
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323857.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY GOLF 4K
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323764.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports 1 HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/47487.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Cricbuzz 1 HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/311366.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Sports 1 HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229224.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports 2 HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/463.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Cricbuzz 2 HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/232441.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Sports 2 HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229225.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Sports 3 HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/301199.ts
-#EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports Extra HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229223.ts
-
 #EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports Yas Extra HD
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229227.ts
 
 #EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports Yas HD
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/17583.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY GOLF HD
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323763.ts
+#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Sports 1 4K
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/248592.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports 1
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/315214.ts
+#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Sports 2 4K
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/248595.ts
 
-#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Cricbuzz 1
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323760.ts
+#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Sports 3 4K
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/301200.ts
 
+#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Sports 1 HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229224.ts
+
+#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Sports 2 HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229225.ts
+
+#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Sports 3 HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/301199.ts
 #EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Sports 1
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/248593.ts
-
-#EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports 2
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/315215.ts
 
 #EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Sports 2
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/248594.ts
@@ -510,5 +489,26 @@ http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/248594.ts
 #EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Sports 3
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/311367.ts
 
+#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Cricbuzz 1 4K
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323761.ts
+
+#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Cricbuzz 1 HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/311366.ts
+
+#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Cricbuzz 2 HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/232441.ts
+
+#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY Cricbuzz 1
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323760.ts
+
+#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY GOLF 4K
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323764.ts
+
+#EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY GOLF HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323763.ts
+
 #EXTINF:-1 group-title="AD Sports / StarzPlay",STARZPLAY GOLF
 http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/323762.ts
+
+#EXTINF:-1 group-title="AD Sports / StarzPlay",AD Sports Extra HD
+http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229223.ts
